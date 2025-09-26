@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+pandas
+langdetect
+python-dotenv
+num2words
+gtts
+jinja2
